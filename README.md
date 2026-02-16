@@ -15,9 +15,7 @@
 
 Kesimpulan: Python adalah pilihan terbaik bagi pemula maupun profesional karena kemampuannya menangani proyek dari skala skrip sederhana hingga level industri.
 
-# Untuk hari pertama kita akan belajar mengenai variable & tipe data
-
-# Variable #
+## Variable 
 
 **Di Python, Anda cukup menulis nama variabel di sebelah kiri, diikuti oleh operator penugasan, dan nilai yang ingin Anda tetapkan ke variabel di sebelah kanan.**
 
@@ -65,7 +63,7 @@ Dengan cara ini, Anda dapat dengan mudah mengkomunikasikan tujuan suatu variabel
 
 Namun, Anda tidak boleh menggunakan komentar untuk menjelaskan arti nama variabel Anda. Sebaliknya, nama yang Anda pilih untuk variabel Anda harus deskriptif dan mengkomunikasikan fungsinya, serta mengikuti aturan penamaan lain yang disebutkan sebelumnya untuk mencegah kesalahan sintaksis. 
 
-# Tipe Data #
+## Tipe Data 
 
 1. Bilangan bulat: Bilangan utuh tanpa desimal, misalnya, 10 atau -5.
 
