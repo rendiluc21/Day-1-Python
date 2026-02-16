@@ -1,5 +1,5 @@
 # Pyhton Progress
-## Mengapa Python?
+## Apa Itu Python
 
 ### Python adalah bahasa pemrograman paling populer (melampaui JavaScript di GitHub pada 2024) karena kesederhanaannya dan fleksibilitasnya di berbagai industri:
 
